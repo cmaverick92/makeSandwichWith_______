@@ -1,5 +1,5 @@
-function makeSandwichWith(filling) {
-  Get one slice of bread;
-  Add filling;
-  Put a slice of bread on top;
- }
+var todos = ['item 1', 'item 2', 'item 3']
+function displayTodos() {
+console.log('My Todos:', todos);
+}
+displayTodos()
