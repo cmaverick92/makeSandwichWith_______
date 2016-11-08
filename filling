@@ -1,0 +1,5 @@
+function makeSandwichWith(filling) {
+  Get one slice of bread;
+  Add filling;
+  Put a slice of bread on top;
+ }
